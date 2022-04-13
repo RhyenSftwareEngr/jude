@@ -1,0 +1,48 @@
+background-color: #92c9d5;
+background-color: #DAEEEF;
+background-color: #9DDAE3;
+
+.wrapper nav ul{
+
+    display: flex;    
+}
+
+.wrapper nav ul li{
+    align-items: center;
+    justify-content: center;
+    
+}
+
+left: 25rem;
+
+.wrapper h1{
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    position: inherit;
+    bottom: 9px;
+    right: 17rem;
+    color: #DAEEEF;
+}
+
+.image2{
+    width: 115%;
+    height: 25vh;
+    background:url(img2.png),no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+    left: 1rem;
+    bottom: 2rem;
+    opacity: 30%;
+    z-index: 1;
+}
+<div class="language">
+<ion-icon name="logo-html5"></ion-icon>
+</div>
+
+.language {
+    z-index: 1;
+    font-size: 13rem;
+    color:#525252;
+    position: relative;
+    left: 28rem;
+    bottom: rem;
+}
